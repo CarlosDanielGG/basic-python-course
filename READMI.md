@@ -9,3 +9,4 @@ En este curso aprenderas a programar en python.
 - Computadora con Windows, MacOs o Linux
 - Editor de Texto como [Visual Studio Code](https://code.visualstudio.com/Download)
 
+--------------------------------
